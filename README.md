@@ -4,6 +4,8 @@
 
 I'm passionate about all forms of creativity, so although software development is my true calling, I also enjoy exploring game development, art, and music as hobbies!
 
+### Find me on [LinkedIn!](https://www.linkedin.com/in/%F0%9F%9A%80-jo%C3%A3o-dias-a6493119b/)
+
 ## Technologies:
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -31,7 +33,6 @@ I'm passionate about all forms of creativity, so although software development i
   <img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
-
 
 
 <!--
